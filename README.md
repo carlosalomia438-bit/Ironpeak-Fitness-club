@@ -2,6 +2,13 @@
 
 Proyecto académico para la gestión de un gimnasio.
 
+## Integrantes
+
+- Juan Sebastian Buitrago López — Líder de Proyecto / Diseñador UI/UX
+- Julian Betancourt Palacio — Analista de Requerimientos
+- Juan Carlos Bedoya Valle — Analista / Desarrollador
+- Santiago Arango Jaramillo — Analista / QA
+
 ## Estado actual
 
 En esta entrega la implementación funcional todavía no está desarrollada. Este repositorio contiene la documentación técnica y funcional actualizada y una estructura base de desarrollo para comenzar la implementación.
