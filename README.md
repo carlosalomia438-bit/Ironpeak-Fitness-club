@@ -4,10 +4,10 @@ Proyecto académico para la gestión de un gimnasio.
 
 ## Integrantes
 
-- Juan Sebastian Buitrago López — Líder de Proyecto / Diseñador UI/UX
-- Julian Betancourt Palacio — Analista de Requerimientos
-- Juan Carlos Bedoya Valle — Analista / Desarrollador
-- Santiago Arango Jaramillo — Analista / QA
+- Juan Sebastian Buitrago López 
+- Carlos Andres Alomia Palacios 
+- Juan Carlos Bedoya Valle 
+- Santiago Arango Jaramillo 
 
 ## Estado actual
 
